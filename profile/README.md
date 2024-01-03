@@ -1,6 +1,11 @@
 # Lets make it BBBetter!
-
 This repository is created to help you explore various enhancements that can be utilized with BBB Services.
+
+## Install Dependencys
+Most if not all of these enhancements are not standalone and therefore need a browserextension to work porperly.  
+Just klick [here](https://github.com/black-backdoor/userscript-installation-guide) for a installation guid.  
+
+[![Static Badge](https://img.shields.io/badge/Extension-Installation_Guide-green?style=for-the-badge)](https://github.com/black-backdoor/userscript-installation-guide)
 
 ## Moodle
 Enhancements made to improve the Userexperiance while using Moodle.
@@ -9,6 +14,3 @@ Enhancements made to improve the Userexperiance while using Moodle.
 - [EditColumnContent](https://github.com/MyDrift-user/EditColumnContent) - Don't need all the links? Just remove them. ![GitHub License](https://img.shields.io/github/license/MyDrift-user/EditColumnContent?style=flat-square)
 - [Quick-ID](https://github.com/BBBaden-Moodle-userscripts/quick-ID) - Are teachers bombarding you with Course IDs? Quick-ID offers an easy way to switch between courses using the course ID. ![GitHub License](https://img.shields.io/github/license/BBBaden-Moodle-userscripts/quick-ID?style=flat-square)
 - [Moodle File Downloader](https://github.com/BBBaden-Moodle-userscripts/Download-All-Files) - Downloads all files from a course ![GitHub License](https://img.shields.io/github/license/BBBaden-Moodle-userscripts/Download-All-Files?style=flat-square)
-
-
-For detailed instructions on how to install userscripts, please refer to the [Userscript Installation Guide](https://github.com/black-backdoor/userscript-installation-guide).
