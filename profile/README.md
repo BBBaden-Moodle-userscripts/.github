@@ -16,3 +16,5 @@ Enhancements made to improve the Userexperiance while using Moodle.
 - [Quick-ID](https://github.com/BBBaden-Moodle-userscripts/quick-ID) - Are teachers bombarding you with Course IDs? Quick-ID offers an easy way to switch between courses using the course ID. ![GitHub License](https://img.shields.io/github/license/BBBaden-Moodle-userscripts/quick-ID?style=flat-square)
 - [Moodle File Downloader](https://github.com/BBBaden-Moodle-userscripts/Download-All-Files) - Downloads all files from a course ![GitHub License](https://img.shields.io/github/license/BBBaden-Moodle-userscripts/Download-All-Files?style=flat-square)
 - [What is my approximate grade?](https://github.com/BBBaden-Moodle-userscripts/What-is-my-approximate-grade) - Calculate and display an approximate grade after a Moodle quiz, based on the points achieved in the quiz.  ![GitHub License](https://img.shields.io/github/license/BBBaden-Moodle-userscripts/Download-All-Files?style=flat-square) 
+
+[more Info](https://github.com/BBBaden-Moodle-userscripts/BBBaden-Moodle)
