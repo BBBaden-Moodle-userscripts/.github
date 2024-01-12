@@ -7,7 +7,7 @@ Just klick [here](https://github.com/black-backdoor/userscript-installation-guid
 
 [![Static Badge](https://img.shields.io/badge/Extension-Installation_Guide-green?style=for-the-badge)](https://github.com/black-backdoor/userscript-installation-guide)
 
-<!-- ## Moodle
+## Popular Userscripts
 Enhancements made to improve the Userexperiance while using Moodle.
 - [CompactMoodle](https://github.com/Hutch79/CompactMoodle) - The Moodle designe is to blown up? Even after zooming out to 50%? This Addon eliminates empty space and tidies up the design. ![GitHub License](https://img.shields.io/github/license/Hutch79/CompactMoodle?style=flat-square)  
 - [MoodleDarkBoost](https://github.com/Hutch79/MoodleDarkBoost) - Join the Dark Side with the Moodle Bost Dark Theme ![GitHub License](https://img.shields.io/github/license/Hutch79/MoodleDarkBoost?style=flat-square)  
@@ -17,7 +17,7 @@ Enhancements made to improve the Userexperiance while using Moodle.
 - [Moodle File Downloader](https://github.com/BBBaden-Moodle-userscripts/Download-All-Files) - Downloads all files from a course ![GitHub License](https://img.shields.io/github/license/BBBaden-Moodle-userscripts/Download-All-Files?style=flat-square)
 - [What is my approximate grade?](https://github.com/BBBaden-Moodle-userscripts/What-is-my-approximate-grade) - Calculate and display an approximate grade after a Moodle quiz, based on the points achieved in the quiz.  ![GitHub License](https://img.shields.io/github/license/BBBaden-Moodle-userscripts/Download-All-Files?style=flat-square) 
 
-[more Info](https://github.com/BBBaden-Moodle-userscripts/BBBaden-Moodle) -->
+[more Info](https://github.com/BBBaden-Moodle-userscripts/BBBaden-Moodle) 
 
-## Install Userscript-manager
+# Download our User script manager to manage all of our extensions!
 [GitHub Page](https://github.com/BBBaden-Moodle-userscripts/BBBUserScriptManager)
