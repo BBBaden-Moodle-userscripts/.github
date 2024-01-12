@@ -22,5 +22,6 @@ Enhancements made to improve the Userexperiance while using Moodle.
 ## Download our User script manager to manage all of our extensions!
 
 [GitHub Page](https://github.com/BBBaden-Moodle-userscripts/BBBUserScriptManager)
+
 [![Static Badge](https://img.shields.io/badge/Install-Script-dark_green?style=for-the-badge&color=dark_green)](https://github.com/BBBaden-Moodle-userscripts/BBBUserScriptManager/raw/main/BBBUserScriptManager.user.js)
 
