@@ -5,7 +5,7 @@ This repository is created to help you explore various enhancements that can be 
 All of these enhancements are not standalone and therefore need a browserextension to work porperly.  
 Just klick [here](https://github.com/black-backdoor/userscript-installation-guide) for a installation guid (Only for non CSS).  
 
-## Moodle
+## Popular Userscripts
 Enhancements made to improve the Userexperiance while using Moodle.
 - [CompactMoodle](https://github.com/Hutch79/CompactMoodle) - The Moodle designe is to blown up? Even after zooming out to 50%? This Addon eliminates empty space and tidies up the design. ![GitHub License](https://img.shields.io/github/license/Hutch79/CompactMoodle?style=flat-square)  
 - [MoodleDarkBoost](https://github.com/Hutch79/MoodleDarkBoost) - Join the Dark Side with the Moodle Bost Dark Theme ![GitHub License](https://img.shields.io/github/license/Hutch79/MoodleDarkBoost?style=flat-square)  
@@ -17,4 +17,8 @@ Enhancements made to improve the Userexperiance while using Moodle.
 - [Mahara Portfolio Ctrl+S](https://github.com/BBBaden-Moodle-userscripts/Mahara-Portfolio-Ctrl-S?tab=readme-ov-file) - Tired of pressing Ctrl + S in Mahara and a "Save page" appears?  ![GitHub License](https://img.shields.io/github/license/BBBaden-Moodle-userscripts/Mahara-Portfolio-Ctrl-S?style=flat-square) 
 
 
+
 [more Info](https://github.com/BBBaden-Moodle-userscripts/BBBaden-Moodle)
+
+# Download our User script manager to manage all of our extensions!
+[GitHub Page](https://github.com/BBBaden-Moodle-userscripts/BBBUserScriptManager)
