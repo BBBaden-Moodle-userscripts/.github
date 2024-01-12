@@ -1,10 +1,8 @@
 ![Header](https://github.com/BBBaden-Moodle-userscripts/.github/blob/main/profile/images/header.png?raw=true)
 
-# Usage
-## I've never used an userscript! What do I need, and how do I install one?
+## New to Userscripts? Here's How to Get Started:
 
-All of these enhancements are not standalone and therefore need a browserextension to work porperly.  
-Just klick [here](https://github.com/black-backdoor/userscript-installation-guide) for a installation guid (Only for non CSS).
+To utilize these enhancements, you'll need a browser extension. If you're unfamiliar with userscripts, don't worry! Follow our [Installation Guide](https://github.com/black-backdoor/userscript-installation-guide) for step-by-step instructions (excludes CSS-only installations).
 
 ## Popular Userscripts
 
