@@ -1,5 +1,6 @@
 ![Header](https://github.com/BBBaden-Moodle-userscripts/.github/blob/main/profile/images/header.png?raw=true)
 
+# Usage
 ## I've never used an userscript! What do I need, and how do I install one?
 
 All of these enhancements are not standalone and therefore need a browserextension to work porperly.  
@@ -20,6 +21,6 @@ Enhancements made to improve the Userexperiance while using Moodle.
 
 [more Info](https://github.com/BBBaden-Moodle-userscripts/BBBaden-Moodle)
 
-# Download our User script manager to manage all of our extensions!
+## Download our User script manager to manage all of our extensions!
 
 [GitHub Page](https://github.com/BBBaden-Moodle-userscripts/BBBUserScriptManager)
