@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/BBBaden-Moodle-userscripts/.github/main/profile/header.png)
+![Header](https://github.com/BBBaden-Moodle-userscripts/.github/blob/main/profile/images/header.png?raw=true)
 
 ## I've never used an userscript! What do I need, and how do I install one?
 
