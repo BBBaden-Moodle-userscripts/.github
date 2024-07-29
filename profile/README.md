@@ -9,10 +9,8 @@ To utilize these enhancements, you'll need a browser extension. If you're unfami
 Enhancements made to improve the user experience while using Moodle.
 
 - [CompactMoodle](https://github.com/Hutch79/CompactMoodle) - The Moodle design is to blown up? Even after zooming out to 50%? This Addon eliminates empty space and tidies up the design.
-- [MoodleDarkBoost](https://github.com/Hutch79/MoodleDarkBoost) - Join the Dark Side with the Moodle Bost Dark Theme
 - [Moodle-Scrollpos](https://github.com/BBBelektronik/moodle-scrollpos) - Saves the scroll position on your Moodle page and restores it after you reload the page.
 - [Quick-ID](https://github.com/BBBaden-Moodle-userscripts/quick-ID) - Are teachers bombarding you with Course IDs? Quick-ID offers an easy way to switch between courses using the course ID.
-- [Moodle File Downloader](https://github.com/BBBaden-Moodle-userscripts/Download-All-Files) - Downloads all files from a course
 - [What is my approximate grade?](https://github.com/BBBaden-Moodle-userscripts/What-is-my-approximate-grade) - Calculate and display an approximate grade after a Moodle quiz, based on the points achieved in the quiz.
 
 [more Scripts](https://github.com/BBBaden-Moodle-userscripts/BBBaden-Moodle/blob/main/AllProjects.md)
