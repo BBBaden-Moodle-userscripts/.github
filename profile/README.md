@@ -1,7 +1,7 @@
 ![Header](images/header.png)
 
 ## What is BBBaden-Modle-userscripts?
-*BBBaden-Moodle-userscripts* is like a secret backstage pass for Moodle on the BBBaden platform. Our crew of developers cooks up custom scripts, themes, and tools to make your learning groove smoother. Whether you’re into slick interfaces, personalized features, or just want to vibe with the Moodle scene, we’ve got something for everyone.
+**BBBaden-Moodle-userscripts** is like a secret backstage pass for Moodle on the BBBaden platform. Our crew of developers cooks up custom scripts, themes, and tools to make your learning groove smoother. Whether you’re into slick interfaces, personalized features, or just want to vibe with the Moodle scene, we’ve got something for everyone.
 
 ## New to Userscripts? Here's How to Get Started:
 
