@@ -9,5 +9,3 @@ To utilize these enhancements, you'll need a browser extension. If you're unfami
 
 ## Download our User script manager to manage all of our extensions!
 [![Static Badge](https://img.shields.io/badge/Install-Script-dark_green?style=for-the-badge&color=dark_green)](https://github.com/BBBaden-Moodle-userscripts/BBBUserScriptManager)
-
-## List of all extensions
